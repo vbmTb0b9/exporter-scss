@@ -1,11 +1,11 @@
 {
     "id": "io.supernova.scss",
-    "name": "SCSS",
+    "name": "TEST SCSS",
     "description": "SCSS token and style exporter",
-    "author": "Ivan Terpugov & Jiri Trecak",
-    "organization": "Supernova",
+    "author": "vbmTb0b9",
+    "organization": "3plus",
     "source_dir": "src",
-    "version": "1.2.1",
+    "version": "1.0.0",
     "config": {
         "sources": "sources.json",
         "output": "output.json",
