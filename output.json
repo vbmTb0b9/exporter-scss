@@ -5,27 +5,27 @@
         },
         {
             "invoke": "borders.pr",
-            "write_using": "static/_base.scss"
+            "write_to": "static/_base.scss"
         },
         {
             "invoke": "gradients.pr",
-            "write_using": "static/_base.scss"
+            "write_to": "static/_base.scss"
         },
         {
             "invoke": "measures.pr",
-            "write_using": "static/_base.scss"
+            "write_to": "static/_base.scss"
         },
         {
             "invoke": "shadows.pr",
-            "write_using": "static/_base.scss"
+            "write_to": "static/_base.scss"
         },
         {
             "invoke": "typography.pr",
-            "write_using": "static/_base.scss"
+            "write_to": "static/_base.scss"
         },
         {
             "invoke": "index-file.pr",
-            "write_using": "static/_base.scss"
+            "write_to": "static/_base.scss"
         }
     ]
 }
